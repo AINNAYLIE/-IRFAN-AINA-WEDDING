@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Majlis Perkahwinan Aisyah & Amir</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            text-align: center; 
+            background-color: #f8f9fa; 
+            margin: 0; 
+            padding: 0; 
+        }
+        .container { 
+            padding: 20px; 
+            background: white; 
+            width: 80%; 
+            margin: auto; 
+            box-shadow: 0px 0px 10px gray; 
+            border-radius: 10px; 
+            margin-top: 50px;
+        }
+        h1 { color: #d63384; }
+        .button { 
+            background: #d63384; 
+            color: white; 
+            padding: 10px 15px; 
+            text-decoration: none; 
+            display: inline-block; 
+            margin: 10px; 
+            border-radius: 5px; 
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Majlis Perkahwinan Aisyah & Amir</h1>
+        <p>Jemputan ke majlis perkahwinan kami pada:</p>
+        <h2>Sabtu, 20 Julai 2025</h2>
+        <p>Lokasi: Dewan Perdana Felda, Kuala Lumpur</p>
+        
+        <a class="button" href="https://goo.gl/maps/example" target="_blank">📍 Lokasi</a>
+        <a class="button" href="https://forms.google.com/example" target="_blank">✅ RSVP</a>
+        <a class="button" href="https://www.spotify.com/example" target="_blank">🎵 Lagu</a>
+        <a class="button" href="https://www.tngdigital.com.my/example" target="_blank">💰 Sumbangan</a>
+    </div>
+</body>
+</html>
